@@ -3,21 +3,6 @@
 
 Curve parameter estimation for FLAM — estimating rotation (theta), exponential factor (M), and horizontal translation (X) for a parametric curve using Python. This README matches the exact steps and results in the provided Google Colab notebook `FLAM_Assignment.ipynb`. Decimal values are shown up to 4 digits.
 
-## Table of contents
-- [Overview](#overview)
-- [Mathematical model](#mathematical-model)
-- [Dataset](#dataset)
-- [Files in this repository](#files-in-this-repository)
-- [Environment & requirements](#environment--requirements)
-- [Notebook summary](#notebook-summary)
-- [Methodology (matching the notebook)](#methodology-matching-the-notebook)
-- [Results (notebook values, 4-digit decimals)](#results-notebook-values-4-digit-decimals)
-- [Final equations (substituted values)](#final-equations-substituted-values)
-- [Evaluation metrics](#evaluation-metrics)
-- [How to reproduce](#how-to-reproduce)
-- [Notes & next steps](#notes--next-steps)
-- [Contact](#contact)
-
 ## Overview
 Given a CSV of (x,y) points sampled from an unknown parametric curve, the goal is to recover three model parameters:
 - theta — rotation angle,
