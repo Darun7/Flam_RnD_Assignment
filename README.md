@@ -1,6 +1,6 @@
-# **Flam_RnD_Assignment**
+# **RnD_Assignment**
 
-**Curve parameter estimation for FLAM** — estimating rotation (theta), exponential factor (M), and horizontal translation (X) for a parametric curve using Python. This README matches the exact steps and results in the provided Google Colab notebook `FLAM_Assignment.ipynb`. Decimal values are shown up to 4 digits.
+**Curve parameter estimation ** — estimating rotation (theta), exponential factor (M), and horizontal translation (X) for a parametric curve using Python. This README matches the exact steps and results in the provided Google Colab notebook `FLAM_Assignment.ipynb`. Decimal values are shown up to 4 digits.
 
 ---
 
